@@ -31,7 +31,7 @@ To run the application, follow these steps:
 8. Seed the database using `npm run seed`.
 9. Sync Sequelize to the database on server start using  `node server.js`.
 
-## Walkthrough Video
+## Walkthrough Video and Screenshots
 
 Please refer to the provided walkthrough video for a comprehensive demonstration of the application's functionality and the fulfillment of all acceptance criteria. The video should include the following:
 
@@ -40,6 +40,10 @@ Please refer to the provided walkthrough video for a comprehensive demonstration
 - Testing API GET routes for categories, products, and tags in Insomnia.
 - Testing API GET routes for a single category, a single product, and a single tag in Insomnia.
 - Testing API POST, PUT, and DELETE routes for categories, products, and tags in Insomnia.
+
+![Categories Screenshot](/assets/Categories%20%20screenshot.JPG)
+![Product Screenshot](/assets/Product%20%20screenshot.JPG)
+![Tag Screenshot](/assets/Tags%20screenshot.JPG)
 
 
 ## Review
